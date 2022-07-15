@@ -10,7 +10,7 @@
 
 ### :white_check_mark: Stack Overflow Clone
 
-This was an excercise my learning and increase in proficiency with Styled Components and Font Awesome with relation to projects. I decided to recreate my version of the Stack Overflow website. 
+This was an excercise to increase my learning and proficiency with Styled Components/Font Awesome with relation to projects. I decided to recreate my version of the Stack Overflow website. 
 
 
 </br></br>
